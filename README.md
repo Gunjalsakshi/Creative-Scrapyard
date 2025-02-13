@@ -15,15 +15,12 @@ Frontend: HTML, CSS, JavaScript, Bootstrap
 Backend: PHP
 Database: MySQL
 📂 Project Setup
-Clone the repository:
-bash
-Copy
-Edit
-git clone https://github.com/Gunjalsakshi/Creative-Scrapyard.git
-Extract and place the files in your local server directory (XAMPP/htdocs).
-Import the database (.sql file) into MySQL.
-Start Apache and MySQL in XAMPP.
-Open the project in a browser (http://localhost/Creative-Scrapyard).
+1. Clone the repository:
+   git clone https://github.com/Gunjalsakshi/Creative-Scrapyard.git
+2. Extract and place the files in your local server directory (XAMPP/htdocs).
+3. Import the database (.sql file) into MySQL.
+4. Start Apache and MySQL in XAMPP.
+5. Open the project in a browser (http://localhost/Creative-Scrapyard).
 ✨ Author
 👩‍💻 Sakshi Gunjal
 🔗 GitHub Profile
