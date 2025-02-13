@@ -1,5 +1,3 @@
-:
-
 🎨 Creative-Scrapyard
 📌 About
 Creative-Scrapyard is a web-based platform designed to showcase creative and innovative projects. This project is built using HTML, CSS, JavaScript, PHP, and MySQL to provide a dynamic and interactive experience.
